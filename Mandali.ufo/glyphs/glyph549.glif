@@ -3,7 +3,7 @@
   <advance width="970"/>
   <outline>
     <contour>
-      <point x="477" y="854" type="curve" smooth="yes" name="hr00"/>
+      <point x="477" y="854" type="curve" name="hr00" smooth="yes"/>
       <point x="477" y="831"/>
       <point x="456" y="810"/>
       <point x="428" y="810" type="curve" smooth="yes"/>
@@ -193,29 +193,13 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-8" width="79" />
-      <hstem pos="-8" width="75" />
-      <hstem pos="253" width="78" />
-      <hstem pos="385" width="73" />
-      <hstem pos="437" width="36" />
-      <hstem pos="598" width="70" />
-      <hstem pos="761" width="49" />
-      <hstem pos="896" width="46" />
-      <vstem pos="57" width="52" />
-      <vstem pos="146" width="54" />
-      <vstem pos="352" width="31" />
-      <vstem pos="477" width="31" />
-      <vstem pos="531" width="39" />
-      <vstem pos="636" width="37" />
-      <vstem pos="846" width="41" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
   </lib>
 </glyph>

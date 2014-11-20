@@ -145,22 +145,13 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-8" width="81" />
-      <hstem pos="-8" width="78" />
-      <hstem pos="229" width="48" />
-      <hstem pos="399" width="75" />
-      <hstem pos="434" width="39" />
-      <vstem pos="14" width="46" />
-      <vstem pos="389" width="59" />
-      <vstem pos="691" width="40" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
   </lib>
 </glyph>

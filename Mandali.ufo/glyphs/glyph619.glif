@@ -3,7 +3,7 @@
   <advance width="477"/>
   <outline>
     <contour>
-      <point x="122" y="-465" type="curve" smooth="yes" name="hr00"/>
+      <point x="122" y="-465" type="curve" name="hr00" smooth="yes"/>
       <point x="122" y="-442"/>
       <point x="109" y="-430"/>
       <point x="94" y="-403" type="curve"/>
@@ -116,22 +116,4 @@
       <point x="472" y="-321"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-432" width="55" />
-      <hstem pos="-271" width="27" />
-      <hstem pos="-174" width="55" />
-      <vstem pos="-89" width="44" />
-      <vstem pos="57" width="65" />
-      <vstem pos="244" width="34" />
-      <vstem pos="439" width="33" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>
