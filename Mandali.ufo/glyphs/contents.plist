@@ -310,6 +310,8 @@
 	<string>less.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>middot</key>
+	<string>middot.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>multiply</key>

@@ -2,8 +2,8 @@
 <glyph name="uni0C1E0C40.abvs" format="1">
   <advance width="877"/>
   <outline>
-    <component base="uni0C1E0C3F.abvs"/>
-    <component base="uni0C55" xOffset="576" yOffset="49"/>
+    <component base="uni0C1E"/>
+    <component base="uni0C40" xOffset="652" yOffset="-40"/>
   </outline>
   <lib>
     <dict>
