@@ -103,57 +103,161 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Adblgrave</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Ainvertedbreve</string>
+		<string>Aring</string>
+		<string>Atilde</string>
+		<string>AE</string>
 		<string>B</string>
 		<string>C</string>
+		<string>Ccedilla</string>
 		<string>D</string>
+		<string>Eth</string>
 		<string>E</string>
+		<string>Eacute</string>
+		<string>Ecircumflex</string>
+		<string>Edblgrave</string>
+		<string>Edieresis</string>
+		<string>Egrave</string>
+		<string>Einvertedbreve</string>
 		<string>F</string>
 		<string>G</string>
 		<string>H</string>
 		<string>I</string>
+		<string>Iacute</string>
+		<string>Icircumflex</string>
+		<string>Idblgrave</string>
+		<string>Idieresis</string>
+		<string>Igrave</string>
+		<string>Iinvertedbreve</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
+		<string>Lslash</string>
 		<string>M</string>
 		<string>N</string>
+		<string>Ntilde</string>
 		<string>O</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odblgrave</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Oinvertedbreve</string>
+		<string>Oslash</string>
+		<string>Otilde</string>
+		<string>OE</string>
 		<string>P</string>
+		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
+		<string>Rdblgrave</string>
+		<string>Rinvertedbreve</string>
 		<string>S</string>
+		<string>Scaron</string>
+		<string>Scommaaccent</string>
 		<string>T</string>
+		<string>uni021A</string>
 		<string>U</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udblgrave</string>
+		<string>Udieresis</string>
+		<string>Ugrave</string>
+		<string>Uinvertedbreve</string>
 		<string>V</string>
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
+		<string>Yacute</string>
+		<string>Ydieresis</string>
 		<string>Z</string>
+		<string>Zcaron</string>
 		<string>a</string>
+		<string>aacute</string>
+		<string>acircumflex</string>
+		<string>adblgrave</string>
+		<string>adieresis</string>
+		<string>agrave</string>
+		<string>ainvertedbreve</string>
+		<string>aring</string>
+		<string>atilde</string>
+		<string>ae</string>
 		<string>b</string>
 		<string>c</string>
+		<string>ccedilla</string>
 		<string>d</string>
+		<string>eth</string>
 		<string>e</string>
+		<string>eacute</string>
+		<string>ecircumflex</string>
+		<string>edblgrave</string>
+		<string>edieresis</string>
+		<string>egrave</string>
+		<string>einvertedbreve</string>
 		<string>f</string>
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>dotlessi</string>
+		<string>iacute</string>
+		<string>icircumflex</string>
+		<string>idblgrave</string>
+		<string>idieresis</string>
+		<string>igrave</string>
+		<string>iinvertedbreve</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
+		<string>lslash</string>
 		<string>m</string>
 		<string>n</string>
+		<string>ntilde</string>
 		<string>o</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>odblgrave</string>
+		<string>odieresis</string>
+		<string>ograve</string>
+		<string>oinvertedbreve</string>
+		<string>oslash</string>
+		<string>otilde</string>
+		<string>oe</string>
 		<string>p</string>
+		<string>thorn</string>
 		<string>q</string>
 		<string>r</string>
+		<string>rdblgrave</string>
+		<string>rinvertedbreve</string>
 		<string>s</string>
+		<string>scaron</string>
+		<string>scommaaccent</string>
+		<string>germandbls</string>
 		<string>t</string>
+		<string>uni021B</string>
 		<string>u</string>
+		<string>uacute</string>
+		<string>ucircumflex</string>
+		<string>udblgrave</string>
+		<string>udieresis</string>
+		<string>ugrave</string>
+		<string>uinvertedbreve</string>
 		<string>v</string>
 		<string>w</string>
 		<string>x</string>
 		<string>y</string>
+		<string>yacute</string>
+		<string>ydieresis</string>
 		<string>z</string>
+		<string>zcaron</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -164,10 +268,14 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>fraction</string>
 		<string>onehalf</string>
-		<string>uni2153</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>foursuperior</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>bullet</string>
@@ -175,9 +283,11 @@
 		<string>comma</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
+		<string>exclamdown</string>
 		<string>numbersign</string>
 		<string>period</string>
 		<string>question</string>
+		<string>questiondown</string>
 		<string>quotedbl</string>
 		<string>quotesingle</string>
 		<string>semicolon</string>
@@ -192,10 +302,17 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>softhyphen</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
+		<string>quotesinglbase</string>
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
 		<string>space</string>
@@ -203,33 +320,61 @@
 		<string>uni200C</string>
 		<string>CR</string>
 		<string>.notdef</string>
-		<string>omdeva</string>
+		<string>florin</string>
 		<string>cent</string>
+		<string>currency</string>
 		<string>dollar</string>
-		<string>uni20B9</string>
+		<string>Euro</string>
 		<string>asciitilde</string>
 		<string>divide</string>
 		<string>equal</string>
 		<string>greater</string>
+		<string>greaterequal</string>
+		<string>infinity</string>
+		<string>integral</string>
 		<string>less</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>notequal</string>
+		<string>partialdiff</string>
 		<string>percent</string>
+		<string>perthousand</string>
 		<string>plus</string>
-		<string>arrowdown</string>
-		<string>arrowleft</string>
-		<string>arrowright</string>
-		<string>arrowup</string>
-		<string>dottedcircle</string>
+		<string>plusminus</string>
+		<string>product</string>
+		<string>radical</string>
+		<string>summation</string>
 		<string>ampersand</string>
+		<string>apple</string>
 		<string>asciicircum</string>
 		<string>at</string>
 		<string>bar</string>
-		<string>centigrade</string>
+		<string>brokenbar</string>
 		<string>copyright</string>
-		<string>fahrenheit</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>degree</string>
+		<string>paragraph</string>
 		<string>registered</string>
+		<string>section</string>
+		<string>trademark</string>
+		<string>acute</string>
+		<string>breve</string>
+		<string>caron</string>
+		<string>cedilla</string>
+		<string>circumflex</string>
+		<string>dieresis</string>
+		<string>dotaccent</string>
 		<string>grave</string>
+		<string>hungarumlaut</string>
+		<string>macron</string>
+		<string>ogonek</string>
+		<string>ring</string>
+		<string>tilde</string>
+		<string>uni0311</string>
+		<string>uni0326</string>
+		<string>uni030F</string>
+		<string>firsttonechinese</string>
 		<string>udattadeva</string>
 		<string>anudattadeva</string>
 		<string>NULL</string>
@@ -307,6 +452,7 @@
 		<string>middot</string>
 		<string>subscript</string>
 		<string>superscript01</string>
+		<string>superscript02</string>
 		<string>uni0C01</string>
 		<string>uni0C02</string>
 		<string>uni0C03</string>
@@ -414,10 +560,18 @@
 		<string>uni0C7D</string>
 		<string>uni0C7E</string>
 		<string>uni0C7F</string>
+		<string>uni0C0E.alt</string>
+		<string>uni0C15.alt</string>
+		<string>uni0C17.alt</string>
 		<string>uni0C18.alt</string>
 		<string>uni0C37.alt</string>
 		<string>uni0C38.alt</string>
 		<string>uni0C39.alt</string>
+		<string>uni0C3E.alt</string>
+		<string>uni0C4A.alt</string>
+		<string>uni0C4C.alt</string>
+		<string>uni0C37.alt02</string>
+		<string>uni0C38.alt02</string>
 		<string>glyph659.alt</string>
 		<string>uni0C150C300C4D.blwf.bl</string>
 		<string>uni0C150C300C4D.blwf.bl.001</string>
