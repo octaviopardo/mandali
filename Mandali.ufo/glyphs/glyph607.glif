@@ -2,17 +2,15 @@
 <glyph name="glyph607" format="1">
   <advance width="882"/>
   <outline>
-    <component base="glyph606"/>
-    <component base="drop" xOffset="141"/>
+	<component base="glyph606"/>
+	<component base="drop" xOffset="141"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
   </lib>
 </glyph>

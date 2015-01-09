@@ -2,17 +2,15 @@
 <glyph name="uni0C18_uni0C46.abvs_uni0C30_un" format="1">
   <advance width="1058"/>
   <outline>
-    <component base="glyph659.alt"/>
-    <component base="uni0C180C46.abvs" xOffset="20"/>
+	<component base="glyph659.alt"/>
+	<component base="uni0C180C46.abvs" xOffset="20"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>4</integer>
+	  <key>public.markColor</key>
+	  <string>0.67,0.95,0.38,1</string>
+	</dict>
   </lib>
 </glyph>

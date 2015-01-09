@@ -3,11 +3,11 @@
   <advance width="266"/>
   <unicode hex="201A"/>
   <outline>
-    <contour>
-      <point x="133" y="-106" type="line"/>
-      <point x="71" y="-106" type="line"/>
-      <point x="113" y="87" type="line"/>
-      <point x="202" y="87" type="line"/>
-    </contour>
+	<contour>
+	  <point x="133" y="-106" type="line"/>
+	  <point x="71" y="-106" type="line"/>
+	  <point x="113" y="87" type="line"/>
+	  <point x="202" y="87" type="line"/>
+	</contour>
   </outline>
 </glyph>

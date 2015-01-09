@@ -99,7 +99,7 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>B3061929-8FC0-4825-9397-AC0F05366121</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<integer>1</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>

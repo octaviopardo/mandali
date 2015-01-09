@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0C300C3E.abvs" format="1">
-  <advance width="877"/>
+  <advance width="1245"/>
   <outline>
-    <component base="uni0C02" xOffset="4"/>
-    <component base="uni0C3E" xOffset="200" yOffset="-1"/>
+	<component base="uni0C02"/>
+	<component base="uni0C3E" xOffset="565"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>8</integer>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>8</integer>
+	  <key>public.markColor</key>
+	  <string>0.5,0.09,0.79,1</string>
+	</dict>
   </lib>
 </glyph>
